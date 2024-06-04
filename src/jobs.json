@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "865b",
+      "title": "Elixir Dev",
+      "type": "Part-Time",
+      "location": "Astana",
+      "description": "We are seeking Elixir developer",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "QazWS LLC",
+        "description": "We are software developer company",
+        "contactEmail": "info@qazws.tech",
+        "contactPhone": "+7 80132425"
+      }
     }
   ]
 }
